@@ -1,0 +1,11 @@
+requests
+whois
+argparse
+beautifulsoup4
+pillow
+imagehash
+urllib3
+certifi
+chardet
+idna
+lxml
