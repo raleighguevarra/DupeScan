@@ -1,4 +1,3 @@
-```markdown
 # DupeScan: Advanced Phishing & Impersonation Detector
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
